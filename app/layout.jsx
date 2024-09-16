@@ -4,8 +4,8 @@ import { Header } from '../components/header';
 
 export const metadata = {
     title: {
-        template: '%s | Netlify',
-        default: 'Netlify Starter'
+        template: '%s | 笑笑笑笑',
+        default: '日本の面白い事実 笑笑笑笑'
     }
 };
 
