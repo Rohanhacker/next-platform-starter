@@ -1,3 +1,4 @@
+"use client"
 import { Code } from 'bright';
 
 export function CodeBlock({ code, lang, lineNumbers, title }) {
